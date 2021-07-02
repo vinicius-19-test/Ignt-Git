@@ -1,0 +1,19 @@
+{
+  "scope": "C",
+  "version": 2,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "window.bin",
+    "thumbnail.png"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "vini_pimentel",
+      "timestamp": "2021-07-02T12:04:33Z"
+    },
+    "xml-format-version": 1,
+    "open-on-start": true,
+    "lastModificationSignature": "9e43575cad3a5cd84b54753401a308ffac6c7e19181ea5c747b2594a53bcfe4c"
+  }
+}
